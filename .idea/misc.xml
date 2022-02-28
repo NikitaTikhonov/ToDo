@@ -7,9 +7,12 @@
         <entry key="app/src/main/res/drawable/ic_add.xml" value="0.1985" />
         <entry key="app/src/main/res/drawable/ic_check.xml" value="0.1985" />
         <entry key="app/src/main/res/drawable/ic_no_data.xml" value="0.1985" />
+        <entry key="app/src/main/res/drawable/ic_save.xml" value="0.222" />
+        <entry key="app/src/main/res/drawable/ic_search.xml" value="0.222" />
         <entry key="app/src/main/res/drawable/item_background.xml" value="0.1985" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.25198618570963544" />
         <entry key="app/src/main/res/layout/fragment_add.xml" value="0.3441507975260417" />
+        <entry key="app/src/main/res/layout/fragment_list.xml" value="0.22056159420289856" />
         <entry key="app/src/main/res/layout/fragment_update.xml" value="0.2078125" />
         <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1985" />
       </map>
